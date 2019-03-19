@@ -1,4 +1,4 @@
-#Exploring Planets
+# Exploring Planets
 
 ## Monster Mash Research Team
 
