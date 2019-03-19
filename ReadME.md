@@ -16,3 +16,7 @@ This repository conatins our research into plantes. Our research questions are:
 ---
 
 Contact us for suggestion on how you can help.
+
+---
+
+This a sample of markdown
