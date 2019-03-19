@@ -13,3 +13,6 @@ This repository conatins our research into plantes. Our research questions are:
 * Question 3
 
 
+---
+
+Contact us for suggestion on how you can help.
